@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38524" started-at="2019-03-11T14:25:26Z" finished-at="2019-03-11T14:26:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38524" started-at="2019-03-11T14:25:26Z" finished-at="2019-03-11T14:26:05Z">
+      <class name="com.qa.TestNG.com.qa.TestNG.CasesTest">
+        <test-method status="PASS" signature="getURL()[pri:0, instance:com.qa.TestNG.com.qa.TestNG.CasesTest@91161c7]" name="getURL" is-config="true" duration-ms="12820" started-at="2019-03-11T14:25:26Z" finished-at="2019-03-11T14:25:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getURL -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.qa.TestNG.com.qa.TestNG.CasesTest@91161c7]" name="login" is-config="true" duration-ms="13042" started-at="2019-03-11T14:25:39Z" finished-at="2019-03-11T14:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="clickCasesTest()[pri:0, instance:com.qa.TestNG.com.qa.TestNG.CasesTest@91161c7]" name="clickCasesTest" duration-ms="11406" started-at="2019-03-11T14:25:52Z" finished-at="2019-03-11T14:26:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCasesTest -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.qa.TestNG.com.qa.TestNG.CasesTest@91161c7]" name="logout" is-config="true" duration-ms="1219" started-at="2019-03-11T14:26:03Z" finished-at="2019-03-11T14:26:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.qa.TestNG.com.qa.TestNG.CasesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
